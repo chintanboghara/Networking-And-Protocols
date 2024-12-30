@@ -78,7 +78,3 @@ FTP and SFTP are protocols used to transfer files between computers over a netwo
   - Security and data integrity are critical.
   - Files are transferred over public networks like the internet.
   - Compliance with data protection regulations (e.g., GDPR, HIPAA) is necessary.
-
----
-
-Let me know if you'd like an example of how to set up or use either protocol!
