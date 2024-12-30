@@ -103,7 +103,3 @@ DNS was not originally designed with security in mind, making it vulnerable to v
 2. **Scalability:** Handles billions of queries daily.
 3. **Efficiency:** Caching speeds up subsequent lookups.
 4. **Flexibility:** Supports dynamic updates and complex configurations.
-
----
-
-Let me know if you'd like to explore DNS records, security, or its real-world applications further!
