@@ -118,7 +118,3 @@
 ### **HTTPS and SEO**
 
 Google has confirmed that **HTTPS is a ranking signal** for search engine optimization (SEO). Websites using HTTPS are given a slight ranking boost, and sites without HTTPS may see a drop in rankings, especially when dealing with sensitive content or e-commerce transactions. Additionally, **Google Chrome** and other browsers flag HTTP sites as "Not Secure," which can reduce user trust.
-
----
-
-Let me know if you need further clarification on how to implement HTTPS, SSL certificates, or related topics!
