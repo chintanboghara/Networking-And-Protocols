@@ -125,7 +125,3 @@ SSL is now deprecated and no longer considered secure due to various vulnerabili
 - **Authentication:** SSL/TLS certificates verify that the server is legitimate, preventing attacks like phishing or man-in-the-middle attacks.
 - **Integrity:** SSL/TLS prevents data from being modified during transmission, ensuring that the received data is identical to what the server sent.
 - **Trust:** SSL/TLS helps build trust with users, as modern browsers show a "padlock" icon when a site is using HTTPS, signaling that it is secure.
-
----
-
-Let me know if you'd like further details on any part of SSL/TLS or how to implement it!
