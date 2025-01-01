@@ -80,7 +80,3 @@ Whitelisting and greylisting are security techniques used in various domains lik
 - When dealing with dynamic or unknown entities that need to prove trustworthiness.
 - When reducing spam, brute-force attacks, or unwanted automated interactions.
 - Example: Email servers rejecting and verifying unknown senders to combat spam.
-
----
-
-Let me know if you'd like examples or deeper explanations on implementing these techniques!
