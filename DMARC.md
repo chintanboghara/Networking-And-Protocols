@@ -162,5 +162,3 @@ v=DMARC1; p=reject; rua=mailto:dmarc-reports@example.com; ruf=mailto:dmarc-failu
 ### **DMARC in Action**
 
 By implementing DMARC with SPF and DKIM, organizations can significantly reduce the chances of their domain being used for malicious purposes, ensuring their email communications are secure and trusted.
-
-Let me know if you'd like help crafting a DMARC record or testing its setup!
