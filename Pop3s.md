@@ -139,5 +139,3 @@ For an email account hosted on `example.com`:
 ### **Conclusion**
 
 POP3S provides a secure way to retrieve and manage emails, focusing on simplicity and offline access. While it lacks advanced features like synchronization and multi-device access offered by IMAPS, it remains a viable option for specific use cases where security and local email storage are priorities. 
-
-Let me know if you need help setting up POP3S or troubleshooting it!
