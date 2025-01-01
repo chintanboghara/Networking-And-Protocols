@@ -124,5 +124,3 @@ When setting up an IMAP account in an email client:
 1. **For Multi-Device Access:** Keeps your email synchronized across devices.
 2. **For Server-Side Organization:** Offers advanced folder management.
 3. **For Modern Email Services:** Most modern email platforms like Gmail, Yahoo Mail, and Microsoft 365 use IMAP by default.
-
-Let me know if you'd like further details or assistance with configuring IMAP!
