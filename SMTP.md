@@ -186,7 +186,3 @@ Modern SMTP servers require authentication to prevent unauthorized users from se
 
 4. **Encryption Issues:**
    - Ensure STARTTLS or SSL/TLS is properly configured.
-
----
-
-Let me know if you'd like an example SMTP configuration or further details on email protocols!
