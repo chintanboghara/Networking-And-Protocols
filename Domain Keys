@@ -122,4 +122,4 @@ DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
 
 While DomainKeys itself is no longer widely used, it played a crucial role in the evolution of email authentication. Its successor, **DKIM**, offers enhanced security, flexibility, and alignment with other protocols like DMARC. Domains that still use DomainKeys should transition to DKIM for better security and interoperability.
 
-If you’re managing email authentication for a domain, start with DKIM and consider implementing DMARC for additional protection. Let me know if you'd like guidance on transitioning to modern protocols!
+If you’re managing email authentication for a domain, start with DKIM and consider implementing DMARC for additional protection.
