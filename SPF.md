@@ -159,4 +159,4 @@ This includes Google’s SPF rules for authorized mail servers.
 
 ---
 
-By implementing SPF, you can improve your domain's email security and reduce the risk of phishing attacks and email spoofing. Let me know if you need help crafting or testing an SPF record!
+By implementing SPF, you can improve your domain's email security and reduce the risk of phishing attacks and email spoofing.
